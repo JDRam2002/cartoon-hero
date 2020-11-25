@@ -3,6 +3,7 @@ header {
     padding-top: 50px;
     padding-bottom: 50px;
     background-color: #141933;
+    background-image: url(../img/header_image.png);
 }
 body{ 
     margin: 0;
@@ -15,7 +16,7 @@ header img{
     border-radius: 190px;
     width: 300px;
     height: 300px;
-    border: 30px solid #E6C918;
+    border: 30px solid #f0bd18;
 }
 h1{
     font-size: 50px;
@@ -35,9 +36,6 @@ main{
 }
 main img{
     max-width: 100%;
-}
-img{
-    ;
 }
 footer{
     text-align: center;
