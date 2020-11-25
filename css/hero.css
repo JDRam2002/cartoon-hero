@@ -36,6 +36,9 @@ main{
 main img{
     max-width: 100%;
 }
+img{
+    ;
+}
 footer{
     text-align: center;
     padding-top: 10px;
